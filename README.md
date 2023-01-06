@@ -14,7 +14,7 @@
 - 🎯 Currently focusing on web development with ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) & ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 💻 Daily coding dosage with:  `.js` files
 - 💬 Can talk for hours about: **Table Tennis, Books and of course Tech **
-- 🔥 On Progress Project: Talk-tischtennis chat application with MERN stack & WebSockets
+- 🔥 In Progress Project: Portfolio website using ReactJS + Chakra UI and other libraries
 
 
 ## 🛠 &nbsp;Tech Stack
