@@ -14,7 +14,7 @@
 - 🎯 Currently focusing on web development with ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) & ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 💻 Daily coding dosage with:  `.js` files
 - 💬 Can talk for hours about: **Table Tennis, Books and of course Tech **
-- 🔥 In Progress Project: Portfolio website using ReactJS + Chakra UI and other libraries
+- 🔥 In Progress Project: Ecommerce website using Next.js + Sanity CMS + stripe 
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -28,12 +28,13 @@
 ![Vue.js](https://img.shields.io/badge/-Vuejs-333333?style=flat&logo=vue.js)
     ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Next JS](https://img.shields.io/badge/Next-333333?style=flat&logo=next.js&logoColor=white)
 
 
 ### ⚙️ Backend
 
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-    ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+    ![Express.js](https://img.shields.io/badge/express.js-333333.svg?style=flat&logo=express&logoColor=%2361DAFB)
 
 ### 🛢 Databases
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
