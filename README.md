@@ -16,9 +16,11 @@ I like to build great UI experiences along with a strong backend.
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 ## 🚀 About
-👨‍💻 About Me: Full-Stack Engineer with 6+ years of successful software delivery experience. Expert in JavaScript, TypeScript, React, Vue, Node.js, NestJS and Express.js. Interested in GraphQL, Testing, RESTful APIs, and SQL. Delivered multiple services with CRUD operations under tight deadlines & helped team to transition to use i18n in a global context using JSON files.
+👨‍💻 About Me: Full-Stack Engineer with 6+ years of successful software delivery experience. Expert in JavaScript, TypeScript, React, Vue, Node.js, NestJS and Express.js. Interested in GraphQL, Testing, RESTful APIs, and SQL. Proud of delivering multiple microservices under tight deadlines & helped my team to transition to use i18n in a global context using JSON files.
 
 🛠️ My career path has blended continuous learning, technical leadership, and hands-on software development. This includes implementing impactful features such as the 'Share Certificate on LinkedIn' functionality, enhancing company visibility and client reach.
+
+🚀 My motto: "To persevere, is important for everybody. Don't give up, don't give in. There's always an answer to everything."
 
 💻 Programming Languages: JavaScript, TypeScript, SQL
 
@@ -29,6 +31,7 @@ I like to build great UI experiences along with a strong backend.
 📊 Methodologies: SCRUM, Agile, KANBAN, TDD, Agile Development Practices
 
 🌐 Interests: GraphQL, Testing, Microservices, SQL, API Design and Development, Frontend/Backend Architecture
+
 
 
 
