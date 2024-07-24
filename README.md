@@ -26,7 +26,7 @@ I like to build great UI experiences along with a strong backend.
 
 🔧 Technologies & Tools: React, Vue.js, Node.js, NestJS, Express.js, Next.js, Docker, REST APIs, MongoDB, HTML, CSS, Git, Jest, MySQL, PostgreSQL, Design Patterns, Data Structures and Algorithms
 
-☁️ Cloud: AWS, Google Cloud Platform (GCP), CI/CD
+☁️ Cloud: AWS, CI/CD
 
 📊 Methodologies: SCRUM, Agile, KANBAN, TDD, Agile Development Practices
 
